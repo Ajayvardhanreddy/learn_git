@@ -1,2 +1,2 @@
-Welcome to world of MAchine Learning!
+Welcome to learn_git Repository
 
